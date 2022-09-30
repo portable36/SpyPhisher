@@ -44,7 +44,6 @@ A python phishing script for login phishing, image phishing, video phishing and 
 ##### Run the tool
  - ```python3 SpyPhisher.py```
 
-```
 
 ##### Pip
  - `pip3 install SpyPhisher` [For Termux]
