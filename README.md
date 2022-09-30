@@ -36,7 +36,7 @@ A python phishing script for login phishing, image phishing, video phishing and 
  - ```git clone https://github.com/portable36/SpyPhisher.git```
 
 ##### Enter the directory
- - ```cd MaxPhisher```
+ - ```cd SpyPhisher```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt```
@@ -46,12 +46,12 @@ A python phishing script for login phishing, image phishing, video phishing and 
 
 ```
 
-### Pip
+##### Pip
  - `pip3 install SpyPhisher` [For Termux]
  - `sudo pip3 install SpyPhisher` [For Linux]
  - `SpyPhisher`
 
-### Docker
+##### Docker
 
  - `sudo docker pull portable36/SpyPhisher`
  - `sudo docker run --rm -it portable36/SpyPhisher`
