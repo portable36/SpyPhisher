@@ -134,7 +134,9 @@ If not found, php, ssh and python modoules will be installed on first run
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
 ## Credits:
-  - KasRoudra
+  - https://github.com/KasRoudra/MaxPhisher
+  - https://gitmemories.com/billythegoat356/Hyperion
+  - https://github.com/htr-tech/PyObfuscate
   
  
 ## [!] Disclaimer
