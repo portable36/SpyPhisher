@@ -133,6 +133,11 @@ If not found, php, ssh and python modoules will be installed on first run
 4. Send the generated link to victim
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
+## Donation
+If this tool has been useful for you, feel free to thank me by buying me a coffee :)
+
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/spyderbd)
+
 ## Credits:
   - https://github.com/KasRoudra/MaxPhisher
   - https://gitmemories.com/billythegoat356/Hyperion
